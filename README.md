@@ -1,5 +1,6 @@
 # welfarewell
-This repo is just for my memo to make welcome and farewell message
+Basic welcome and farewell message design for discord bot. You can change the image with your own.
+
 
 Usage
 1. npm install
